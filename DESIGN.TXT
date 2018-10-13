@@ -1,0 +1,183 @@
+
+
+
+***** CORE DESIGN OF THE TRANSFORMER *****
+
+
+
+KVA rating of transformer is 1000.00KVA
+Value of K is 0.62
+Voltage per turn is 19.61 V
+Number of phase of transformer is 3
+Line frequency is 50 Hz
+Flux of core is 0.088316 Wb
+Flux density is 1.4000 Wb/m^2
+Net iron area is 0.063083 m^2
+Stacking factor is 0.90
+Gross iron area is 0.070092 m^2
+Type of core is cruciform
+Diameter of core is 0.3356 m
+The diamention is 0.285*0.178
+
+
+***WINDOW DIAMENSION OF THE TRANSFORMER***
+
+
+
+Primary winding voltage is 7 KV
+Flux density is 1.4000 Wb
+Current density is 2.30 A/mm^2
+Window space factor is 0.328
+Modified window space factor is 0.340
+Area of window is 0.086964 m^2
+Ratio - Height to width of the window 3.6
+Width of window is 0.155 m
+Height of window is 0.560 m
+Modified height and width of window are 0.560 m and 0.155 m
+Distance beteween adjacent core is  0.491 m
+
+
+***YOKE DESIGN OF TRANSFORMER***
+
+
+The ratio - area of yoke to limbs is 3.60
+Flux density in the yoke id 0.388889 Wb/m^2
+Area of yoke is  0.227098 m^2
+Gross area of yoke is 0.252331 m^2
+Selected the section of yoke is rectangular
+ Taking the depth of yoke as highest side of laminated core
+
+Depth of yoke is  0.2850 m
+Height of yoke is 0.8854 m
+
+
+ ***OVERALL DIAMENSION OF TRANSFORMER ***
+
+Distance between adjacent core centers is 0.491 m
+Height of the frame is 2.331 m
+Width of the frame is  1.266 m
+Depth of the frame is  0.285 m
+
+
+ *** LOW VOLTAGE WINDING CALCULATION OF TRANSFORMER *** 
+
+
+s Secondary Line voltage is 440.00 V
+Connection type is Star
+ Phase voltage is 254.034 V
+ Turn per phase is 12
+ Secondary current per phase is 1312.160
+ Current density in secondary phase is 2.30 A/mm^2
+Total area of secondary conductor is 570.504 mm^2
+To provide 571 mm^2 area,the number of conductor is 12
+ Dimension of the conductor is 16.000 * 3.000
+ Modified area of secondary conductor is 576.000mm^2
+ modified current density in secondary phase is 2.28 A/mm^2 
+ Covering of the conductor is 0.400 mm
+ Dimension of the conductor with covering is 16.400 * 3.400
+ Number of layers used is 3
+ Using hellical winding space to be provided 5.000 along the axis 
+
+ Turns along the axial depth is 5
+ Axial depth of LV winding is 82.000 mm 
+
+ Clearance is 239.000 mm
+ thickness of pressboard cylinders is 5.000 mm 
+ Radial depth of LV winding is 20.200 mm
+ Insulation for the circumscribing circle is 0.500 mm
+ Insulation between LV winding and core is 1.500 mm
+ Diameter of the circumscribing circle is 0.341 mm
+ Inside diameter is 343.630 mm
+ Outside diameter is 384.030 mm
+
+
+***HIGH VOLTAGE WINDING DESIGN OF TRANSFORMER *** 
+
+
+
+ The primary line voltage is 6600.00 V
+ Connection type is Delta
+ Primary phase voltage is 6600.000 V
+ Primary turn per phase is 311
+ There is no tapping. 
+ Crossover winding is used here. 
+
+ The value of voltage per coil is 1500.000 V
+ Number of coils is 4
+ Modified Number of coil is 5
+ Modified value of voltage per coil is 1320.000 V
+ Turns per coil is 62
+ Number of turns of normal coil is 70 
+ Reinforced turns in remaining 1 coil is 31.
+ Number of layers is 0
+ Turns per layer is +INF
+Primary current per phase is 50.505 A
+current density in the primary conductor is2.700A/mm^2
+Area of primary conductor is 0.3f mm^2
+
+Number of strips is 1
+The dimension of the conductor in mm is 7.500 * 2.500
+Number of coil in axial is 7
+Number of coil in radial is 10.000 
+Dimension of the insulated conductor is 8.000 * 3.000 in mm
+Modified area of the conductor is 24.000 mm ^2
+Modified current density in the primary conductor is 2.278 A/mm^2
+Axial depth of one coil is +INF mm
+Space between adjacent coil is 5.0 mm
+Axial Length of the coil is +INF mm
+Clearence is -INF mm
+Thickness of insulation between the layers is 0.300 mm
+Radial depth of the coil is -0.300 mm
+Thickness of insulation b/w LV & HV is 0.3f mm
+Inside diameter of the HV is 405.910 mm
+Outside diameter of the HV 405.310 mm
+
+
+ ***RESISTANCE DESIGN OF THE TRANSFOEMER *** 
+
+Mean diameter of HV winding is  405.610 mm
+Lenth of mean turn in HV winding is 1.274
+Resistivity of the material is 0.0210
+Resistivity of the material is 0.3468
+Length of mean turn in LV winding is 363.830 mm
+Length of mean turn in LV winding is 1.143 mm
+Resistivity of the material is 0.0210
+Resistance in LV side is 0.0005 Ohm
+Resistance reffered to primary side is 0.6826 ohm
+Per unit resistance is 0.0052
+
+
+***CALCULATION OF LEAKAGE REACTANCE OF THE TRANSFORMER***
+
+
+ 
+ Mean diameter of winding is 405.610 mm
+ Length of mean turn of winding is 1.274 m
+ Mean axial length of winding is +INF mm
+ Leakage reactance reffered to primary side is 0.000 Ohm
+ Per unit leakage reactance is 0.000 
+ Per unit impedence is 0.005 I^2R Loss is %.3 f W
+ Percentage stray loss is  5.000
+I^2R Loss including stray loss is 5484.936035 W 
+Density of lamination is 7600.000 kg/m^2
+Weight of the 3 limbs is % .3 f Kg
+specific core loss is .31.800000
+core loss in the limbs is  1449.793 W 
+ density lamination is  7600.000 Kg/m^2
+Weight of 3 Limbs is 805.441 Kg
+Specific core loss is 0.900 W/kg
+Core loss in limbs is 724.897 W
+Density of laminations is 7600.000 kg/m^2
+Weight of the yokes is  4370.991 Kg
+Specific core loss is 0.900 W/kg
+core loss in the yoke is  3933.892 W
+Total core loss is  4658.789 W 
+
+
+***EFFICIENCY OF TRANSFORMER***
+
+
+n
+ Total loss is 10143.725 W
+ Efficiency of transformer is 99.00
+Condition for maximum efficiency is 0.922
